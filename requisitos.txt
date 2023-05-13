@@ -1,0 +1,83 @@
+
+
+Tips para los estudiantes que están por entregar el TPO
+
+	
+
+Revisa la consigna del proyecto con cuidado: Asegúrate de entender todos los requisitos y de que tu proyecto cumpla con ellos. Verifica que hayas incluido al menos 4 páginas html, un formulario de contacto con validación de Javascript, un Iframe, íconos de FontAwesome o Flaticon y fuentes locales o de Google Fonts, y que tengas una página completamente responsive con 3 puntos de corte para 3 tamaños de dispositivos distintos. Además, asegúrate de utilizar etiquetas semánticas para estructurar tu sitio, incorporar al menos una animación o transformación, y consumir una API Rest desde JavaScript.
+
+Cuida el diseño y la estética de tu sitio: No olvides que la evaluación también considerará aspectos de diseño. Prestá atención a la maquetación del sitio web, la alineación y márgenes entre los elementos, la tipografía seleccionada, las fotografías y paleta de colores acordes a la temática del proyecto, el logo utilizado y los íconos y favicon.
+
+Sincroniza el código del TPO en Github: Este requisito es obligatorio, por lo que asegurate de sincronizar el código de tu proyecto en Github y de enviar el link del repositorio al Instructor al momento de entregar el proyecto.
+
+Entrega a tiempo: Asegúrate de entregar el proyecto antes de la fecha límite establecida.
+
+Comunícate con tus compañeros de grupo y el Instructor: Designá un representante en tu grupo que se encargue de establecer contacto directo con el Instructor del curso y de recibir la devolución del proyecto. Además, mantén una buena comunicación con tus compañeros de grupo para asegurarte de que el trabajo esté siendo completado de manera efectiva. Tu Instructor te comunicará a partir de cuándo y por dónde deberán enviar su TPO.
+
+
+
+
+Diseño Web
+
+Menú hamburguesa:
+
+Reproducir Vídeo https://www.youtube.com/watch?v=m9I1Lc4EnN4&t=9s
+(solo con CSS, sin Javascript)
+
+Carrousel de imágenes:
+
+Reproducir Vídeo
+
+https://www.youtube.com/watch?time_continue=11&v=bkgnp2lp7FQ&embeds_euri=https%3A%2F%2Faulasvirtuales.bue.edu.ar%2F&embeds_origin=https%3A%2F%2Faulasvirtuales.bue.edu.ar&source_ve_path=MjM4NTE&feature=emb_title
+
+(solo con HTML y CSS, sin Javascript)
+
+Carrousel de imágenes:
+
+Reproducir Vídeo
+
+https://aulasvirtuales.bue.edu.ar/mod/forum/discuss.php?d=66306
+
+(con Javascript)
+Cómo construir tu propio portafolio web de desarrollador con HTML, CSS y JavaScript: https://www.freecodecamp.org/espanol/news/como-construir-tu-propio-portafolio-web-desarrollador/ Incluye:
+
+Cómo construir y dar Estilos a la Barra de Navegación
+
+Cómo construir y dar Estilos la Sección About Us
+
+Cómo construir y dar Estilos la sección de Proyectos
+
+Cómo construir y dar Estilos la Sección de Contacto
+
+Cómo dar estilo a los iconos de Redes Sociales
+
+Cómo agregar el botón desplazarse Hacia Arriba
+
+Cómo hacer que tu web sea responsive
+
+Cómo construir un Menú de Hamburguesa
+
+Cómo hacer responsive el sitio web para teléfonos celulares pequeños
+
+
+Envío de Formulario de contacto
+
+Cómo tener un formulario funcional sin la necesidad de back end. Formspree: https://formspree.io/ 
+
+Envío de formulario de contacto por correo con el API de Formspree:
+
+Reproducir Vídeo
+ 
+
+API Rest con JavaScript
+
+4 Maneras de llamar a una API Rest con JavaScript: https://dev.to/vikingcodeblog/4-maneras-de-llamar-a-una-api-rest-con-javascript-2nhm
+
+APIs gratuitas para programar tus proyectos: https://github.com/public-apis/public-apis Más de 1.500 APIs gratuitas para utilizar en tus apps (tiempo, películas, libros, eventos, cotizaciones, etc.)
+
+Create Your Own Fake JSON API: https://mocki.io/fake-json-api (allows you to create a fake JSON API with your own fake data). Otro servicio similar: https://beeceptor.com/ 
+
+
+2023:
+
+Cortito y al pie: Efecto Zoom a una Imagen con Html y Css | Efecto Hover en menos de un minuto

@@ -1,0 +1,15 @@
+Página Web: Kiosco Luli
+
+Consta de 4 secciones: reservas, ofertas, precios, contactos
+
+Reservas: contiene un formulario vinculado con JS para enviar los datos al email, vinculado para recibir los pedidos. Utilizando formspree
+
+Ofertas: se trabajo con JS, y funciones para mostrar segun el porcentaje elegido las ofertas.
+
+Precios: es con cards/tarjetas de bootstrap, y la primer imagen es un carousel.
+
+Contactos: se utilizo flexbox, además en el 2do items es un iframe(mapa de google).
+
+
+En ofertas y contactos se utilizo íconos de FontAwesome.
+
