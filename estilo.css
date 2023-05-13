@@ -9,7 +9,7 @@ header, section, footer {
 
 header {
     height: 90px;
-    background-image: url(imagenes/fondos.jpg);  
+    background-image: url(fondos.jpg);  
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -167,18 +167,18 @@ input[type="submit"] {
 }
 
 #beb{
-    background-image: url(imagenes/cafees1.jpg);  
+    background-image: url(cafees1.jpg);  
 }
 
 #gol{
-    background-image: url(imagenes/limpieza22.jpg);
+    background-image: url(limpieza22.jpg);
 }
 #bebi{
-    background-image: url(imagenes/combo.jfif);
+    background-image: url(combo.jfif);
 }
 
 #golo{
-    background-image: url(imagenes/Captura1.png);
+    background-image: url(Captura1.png);
 }
 #bebid{
     background-color: rgb(235, 180, 31);
